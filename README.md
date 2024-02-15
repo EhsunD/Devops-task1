@@ -1,5 +1,7 @@
-# dotin-devops-task1
-First task of Devops, about operation system
+# Devops-task1
+Special thanks to Alireza Shateri for these tasks and guidance in this journey.
+
+First task of Devops, about operation system.
 
 # Step1:
   Write a simple API that echos everything you send to it! Also, write the sent message on a file in the /var/lib/echo_api/{message}
